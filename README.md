@@ -1,18 +1,40 @@
-Task Manager MERN Project
+# Task Manager (MERN Stack)
 
-Steps to Run:
+ Project Description:
+This is a Task Manager web application developed using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). It helps users manage their daily tasks through a simple and user-friendly interface.
 
-1. Install MongoDB and start the MongoDB service.
+ Features:
+- Add new tasks
+- View all tasks
+- Delete tasks
+- Responsive user interface
 
-2. Run Backend:
-   cd server
-   npm install
-   node server.js
+ Technologies Used:
+- MongoDB
+- Express.js
+- React.js
+- Node.js
 
-3. Run Frontend:
-   cd client
-   npm install
-   npm start
+ How to Run
 
-4. Open browser:
-   http://localhost:3000
+ Backend:
+```bash
+cd server
+npm install
+node server.js
+```
+
+ Frontend:
+```bash
+cd client
+npm install
+npm start
+```
+
+Open your browser and visit:
+
+http://localhost:3000
+
+ Developed By:
+
+Rakshit Shetty
